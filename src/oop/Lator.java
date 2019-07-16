@@ -22,5 +22,6 @@ public class Lator {
         ansr=a/b;
         System.out.println(ansr);
         return;
+		//jldlkljal
     }
 }
